@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "ラストソング",
-  "base_artist": "二宮和也",
-  "createdAt": "2026-02-20T04:34:13.497168Z",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-03-08T17:56:40.800475Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -24,9 +24,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "ラストソング",
-      "artist": "二宮和也",
+      "artist": "Official髭男dism",
       "has_synced": false,
-      "path": "select/pl_01_ラストソング_二宮和也.txt"
+      "path": "select/pl_01_ラストソング_Official髭男dism.txt"
     }
   ]
 }
